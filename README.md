@@ -46,7 +46,7 @@ Scores by Type After<br/>
 ![Scores by Type After](https://github.com/cailynjmiller/School_District_Analysis/blob/main/Resources/school%20type%20NEW.png)<br/><br/>
 
 ## Summary
-- One major change to the analysis was the number of students being analyzed. The number of students in the analysis went down around 400 students (~39100 to ~38700). 
+- One major change to the analysis was the number of students being analyzed. The number of students in the analysis went down around 400 students (~39100 to ~38700). However, I did not changes the student count in any of the analyses.
 - Another major change is the amount of null values in the dataset, there were no null values in the original data. Having lots of null values can lead to an inaccurate analysis, however, this does not appear to be the case here because many parts of the analysis remained unchanged.
 - Another change of this analysis is that Thomas High School performed worse in average math and reading scores and passsing rates. However, this did not change the fact that Thomas High School sits in the second spot for the highest overall passing rates.
 - The final change was that, when comparing 3 different categories for schools, spending per student, type, and size, the bins that Thomas High School is in changed so the averages were slightly lower, but not enough to affect their placement in comparison to the other bins.
